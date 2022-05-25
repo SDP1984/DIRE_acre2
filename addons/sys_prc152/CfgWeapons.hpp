@@ -12,7 +12,7 @@ class CfgWeapons {
         scope = 2;
 
         class ItemInfo: CBA_MiscItem_ItemInfo {
-            mass = 5;
+            mass = .5;
             scope = 0;
         };
 
